@@ -1,2 +1,4 @@
 # request-java
-https://www.reddit.com/r/RequestNetwork/
+A port of requestNetwork.js for Java and Android.
+
+WIP
